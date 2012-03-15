@@ -1,6 +1,6 @@
 /*
  * Define symbols to be used during startup - file is linked at compile time
- *
+ * Digilent Atlys board definitions
  */
 .global _board_mem_base
 .global _board_mem_size
